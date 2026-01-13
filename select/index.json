@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "幾望",
+  "base_artist": "月夜に唄え",
+  "createdAt": "2026-01-13T13:15:37.101125Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "幾望",
+      "artist": "月夜に唄え",
+      "has_synced": false,
+      "path": "select/pl_01_幾望_月夜に唄え.txt"
+    }
+  ]
+}
